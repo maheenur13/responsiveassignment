@@ -58,3 +58,8 @@
     color: white;
     font-size: 20px;
 }
+@media only screen and (max-width: 380px){
+    .responsive-font{
+        font-size: 30px;
+    }
+}
