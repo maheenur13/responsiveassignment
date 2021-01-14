@@ -47,3 +47,14 @@
     font-family: 'Baloo Da 2', cursive;
     font-size: 20px;
 }
+.third-section{
+    background-color: #051e3625;
+}
+.footer{
+    background-color: rgb(3, 3, 49);
+    color: white;
+}
+.footer i{
+    color: white;
+    font-size: 20px;
+}
