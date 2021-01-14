@@ -15,16 +15,35 @@
     background-color: rgba(0, 0, 0, 0.26);
 }
 .title-design{
-    
+    /* background-color: #2E2F29; */
     letter-spacing: 2px;
     font-weight: 700;
     font-size: 3rem;
-    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Lobster', cursive;
+}
+.ttile-text-color{
+    color: #5B0E2E;
 }
 .banner-title{
-    color:#5F4B8BFF;
-    font-family: 'Anton', sans-serif;
+    
+    font-weight: bold;
+    
+    font-family: 'Potta One', cursive;
     /* word-spacing: 4px; */
-    letter-spacing: 2px;
-    font-size: 55px;
+    font-size: 50px;
+    text-shadow: 3px 6px 10px rgb(104, 104, 104);
+}
+.icon-box{
+    width: 40px;
+    background-color: rgba(0, 0, 0, 0.055);
+}
+.banner-title-1{
+    color:rgb(113, 80, 185);
+}
+.banner-title-2{
+    color: rgb(85, 172, 121);
+}
+.banner-paragraph{
+    font-family: 'Baloo Da 2', cursive;
+    font-size: 20px;
 }
