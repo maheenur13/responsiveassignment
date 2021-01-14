@@ -1,0 +1,30 @@
+.margin-nav-items{
+    margin: 0px 9px 0px 9px;
+}
+.nav-banner-back-color{
+    background-color: rgb(255, 213, 206);
+}
+.nav-items-color a{
+ font-family: 'Baloo 2', cursive;
+    color: black;
+}
+.toggler-color{
+    color: rgba(0, 0, 0, 0.144);
+}
+.carousel-icon-backcolor{
+    background-color: rgba(0, 0, 0, 0.26);
+}
+.title-design{
+    
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: 3rem;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.banner-title{
+    color:#5F4B8BFF;
+    font-family: 'Anton', sans-serif;
+    /* word-spacing: 4px; */
+    letter-spacing: 2px;
+    font-size: 55px;
+}
